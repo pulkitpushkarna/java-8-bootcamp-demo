@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e526325a-cd2f-47ae-bfac-7da904e8e72a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ogYj6z4ZZXPVFJ62rQABlgeqjE" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.FlatMapDemo">
+    <configuration name="ConstructorReference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.bootcamp.ConstructorReference" />
+      <module name="java-8-bootcamp-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.bootcamp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DefaultMethodInInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.bootcamp.DefaultMethodInInterface" />
+      <module name="java-8-bootcamp-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.bootcamp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Doubt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.bootcamp.Doubt" />
+      <module name="java-8-bootcamp-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.bootcamp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlatMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.bootcamp.FlatMapDemo" />
+      <module name="java-8-bootcamp-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.bootcamp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodAndConstructorRefrence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.bootcamp.MethodAndConstructorRefrence" />
+      <module name="java-8-bootcamp-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.bootcamp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Doubt" />
+      <item itemvalue="Application.MethodAndConstructorRefrence" />
+      <item itemvalue="Application.ConstructorReference" />
+      <item itemvalue="Application.DefaultMethodInInterface" />
+      <item itemvalue="Application.FlatMapDemo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FlatMapDemo" />
+        <item itemvalue="Application.DefaultMethodInInterface" />
+        <item itemvalue="Application.ConstructorReference" />
+        <item itemvalue="Application.MethodAndConstructorRefrence" />
+        <item itemvalue="Application.Doubt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e526325a-cd2f-47ae-bfac-7da904e8e72a" name="Default Changelist" comment="" />
+      <created>1613709832440</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613709832440</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="653" y="233" key="#com.intellij.ide.util.MemberChooser" timestamp="1613713110479">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state x="653" y="233" key="#com.intellij.ide.util.MemberChooser/0.23.1680.972@0.23.1680.972" timestamp="1613713110479" />
+    <state width="1638" height="262" key="GridCell.Tab.0.bottom" timestamp="1613714055982">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state width="1638" height="262" key="GridCell.Tab.0.bottom/0.23.1680.972@0.23.1680.972" timestamp="1613714055982" />
+    <state width="1638" height="262" key="GridCell.Tab.0.center" timestamp="1613714055980">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state width="1638" height="262" key="GridCell.Tab.0.center/0.23.1680.972@0.23.1680.972" timestamp="1613714055980" />
+    <state width="1638" height="262" key="GridCell.Tab.0.left" timestamp="1613714055980">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state width="1638" height="262" key="GridCell.Tab.0.left/0.23.1680.972@0.23.1680.972" timestamp="1613714055980" />
+    <state width="1638" height="262" key="GridCell.Tab.0.right" timestamp="1613714055981">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state width="1638" height="262" key="GridCell.Tab.0.right/0.23.1680.972@0.23.1680.972" timestamp="1613714055981" />
+    <state x="328" y="92" key="SettingsEditor" timestamp="1613710472897">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state x="328" y="92" key="SettingsEditor/0.23.1680.972@0.23.1680.972" timestamp="1613710472897" />
+  </component>
+</project>
